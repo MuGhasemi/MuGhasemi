@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuGhasemi
 - 👀 I’m interested in backend developer
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for cooperation in a development team.
 - 📫 How to reach me : mughasemi2008@gmail.com
 
 <!---
